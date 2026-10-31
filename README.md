@@ -258,4 +258,4 @@ This repository serves as the official landing page for RPG Maker XP. The softwa
 **Get the most recent version of RPG Maker XP today!**
 
 ---
-**Last updated:** 2026-10-31 08:19:44 UTC
+**Last updated:** 2026-10-31 15:00:28 UTC
